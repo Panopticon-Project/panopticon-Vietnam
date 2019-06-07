@@ -7,3 +7,5 @@ http://www.securityweek.com/vietnams-10000-strong-cyber-army-slammed-rights-grou
 https://www.securityweek.com/vietnam-mps-approve-sweeping-cyber-security-law
 
 https://www.asiatimes.com/2017/10/article/vietnam-grapples-wild-wooly-web/
+
+https://www.securityweek.com/vietnam-cyber-threat-government-linked-hackers-ramping-attacks
